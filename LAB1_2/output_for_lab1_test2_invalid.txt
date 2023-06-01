@@ -1,0 +1,5 @@
+Error: syntax error,line number: 9,token: -
+Error: syntax error,line number: 14,token: :
+Error: syntax error,line number: 15,token: :
+Error: syntax error,line number: 28,token: *
+Error: syntax error,line number: 41,token: }
